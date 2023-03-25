@@ -139,14 +139,14 @@ async function run() {
                         return res.status(400).send({ message: "Failed", status: 400 })
                     }
 
-                    return res.status(200).send({ message: "Data Added to Cart1", status: 200 })
+                    return res.status(200).send({ message: "Booking Added Successfully", status: 200 })
                 }
                 const result = await BookingCollections.insertOne({ ...BookingData });
 
                 if (!(result.insertedId)) {
                     return res.status(400).send({ message: "Failed", status: 400 })
                 }
-                return res.status(200).send({ message: "Data Added to Cart2", status: 200 })
+                return res.status(200).send({ message: "Booking Added Successfully", status: 200 })
 
             } catch (error) {
                 res.status(500).send({ message: "Server Error", status: 500 })
