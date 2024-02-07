@@ -1,0 +1,238 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 21
+    },
+    {
+      "name": "The Pragmatic Programmer: Your Journey To Mastery",
+      "author": "David Thomas, Andrew Hunt",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_BO1,204,203,200_.jpg",
+      "price": 40,
+      "rating": 4,
+      "featured": true,
+      "id": 23
+    },
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": false,
+      "id": 4
+    },
+    {
+      "name": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+      "author": "Gayle Laakmann McDowell",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51l5XqcvlnL._SX348_BO1,204,203,200_.jpg",
+      "price": 45,
+      "rating": 4,
+      "featured": false,
+      "id": 4
+    },
+    {
+      "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51TAlrDFhzL._SX396_BO1,204,203,200_.jpg",
+      "price": 30,
+      "rating": 4,
+      "featured": false,
+      "id": 5
+    },
+    {
+      "name": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/513cVXdgMVL._SX379_BO1,204,203,200_.jpg",
+      "price": 20,
+      "rating": 4,
+      "featured": false,
+      "id": 6
+    },
+    {
+      "name": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51uQ8oGdK-L._SX379_BO1,204,203,200_.jpg",
+      "price": 55,
+      "rating": 5,
+      "featured": true,
+      "id": 7
+    },
+    {
+      "name": "Code: The Hidden Language of Computer Hardware and Software",
+      "author": "Charles Petzold",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41NV3XJPkSL._SX397_BO1,204,203,200_.jpg",
+      "price": 25,
+      "rating": 4,
+      "featured": false,
+      "id": 8
+    },
+    {
+      "name": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41as+WafrFL._SX258_BO1,204,203,200_.jpg",
+      "price": 30,
+      "rating": 4,
+      "featured": false,
+      "id": 9
+    },
+    {
+      "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "author": "Robert C. Martin",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41eJ2mcdB%2BL._SX376_BO1,204,203,200_.jpg",
+      "price": 35,
+      "rating": 4,
+      "featured": true,
+      "id": 10
+    },
+    {
+      "name": "The C Programming Language",
+      "author": "Brian W. Kernighan, Dennis M. Ritchie",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51t-imV3uhL._SX376_BO1,204,203,200_.jpg",
+      "price": 22,
+      "rating": 5,
+      "featured": false,
+      "id": 11
+    },
+    {
+      "name": "Head First Design Patterns: A Brain-Friendly Guide",
+      "author": "Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51PGV6mOMxL._SX430_BO1,204,203,200_.jpg",
+      "price": 40,
+      "rating": 4,
+      "featured": true,
+      "id": 12
+    },
+    {
+      "name": "Programming Pearls",
+      "author": "Jon Bentley",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51FPWXem-yL._SX339_BO1,204,203,200_.jpg",
+      "price": 28,
+      "rating": 4,
+      "featured": false,
+      "id": 13
+    },
+    {
+      "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+      "author": "Eric Evans",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX384_BO1,204,203,200_.jpg",
+      "price": 38,
+      "rating": 4,
+      "featured": true,
+      "id": 14
+    },
+    {
+      "name": "Effective Java",
+      "author": "Joshua Bloch",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41yMqlbM+eL._SX377_BO1,204,203,200_.jpg",
+      "price": 32,
+      "rating": 5,
+      "featured": false,
+      "id": 15
+    },
+    {
+      "name": "Computer Networking: A Top-Down Approach",
+      "author": "James F. Kurose, Keith W. Ross",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51knV-W6rBL._SX409_BO1,204,203,200_.jpg",
+      "price": 48,
+      "rating": 5,
+      "featured": true,
+      "id": 16
+    },
+    {
+      "name": "The Mythical Man-Month: Essays on Software Engineering",
+      "author": "Frederick P. Brooks Jr.",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41Z54ZKbssL._SX315_BO1,204,203,200_.jpg",
+      "price": 26,
+      "rating": 4,
+      "featured": false,
+      "id": 17
+    },
+    {
+      "name": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51QeE1i-XhL._SX396_BO1,204,203,200_.jpg",
+      "price": 50,
+      "rating": 5,
+      "featured": true,
+      "id": 18
+    },
+    {
+      "name": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+      "author": "Michael Kerrisk",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51rQYtX3RsL._SX380_BO1,204,203,200_.jpg",
+      "price": 42,
+      "rating": 4,
+      "featured": false,
+      "id": 19
+    },
+    {
+      "name": "Operating System Concepts",
+      "author": "Abraham Silberschatz, Greg Gagne, Peter B. Galvin",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51UYMvMz3FL._SX378_BO1,204,203,200_.jpg",
+      "price": 45,
+      "rating": 4,
+      "featured": true,
+      "id": 20
+    },
+    {
+      "featured": true,
+      "name": "Tanjimul Islam Sabbir",
+      "author": "Tanjimul Islam Sabbir",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "price": "34",
+      "rating": "5",
+      "id": 24
+    },
+    {
+      "featured": true,
+      "name": "Tanjimul",
+      "author": "Tanjimul Islam Sabbir",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": "34",
+      "rating": "5",
+      "id": 25
+    },
+    {
+      "featured": true,
+      "name": "Tanjimul Islam Sabbir",
+      "author": "Tanjimul Islam Sabbir",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41jEbK-jG+L._SX376_BO1,204,203,200_.jpg",
+      "price": "54",
+      "rating": "5",
+      "id": 26
+    },
+    {
+      "featured": true,
+      "name": "His Dark Materials (2019- Present)",
+      "author": "Tanjimul Islam Sabbir",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41jEbK-jG+L._SX376_BO1,204,203,200_.jpg",
+      "price": "141541",
+      "rating": "5.00",
+      "id": 27
+    }
+  ]
+}
